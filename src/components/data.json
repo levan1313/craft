@@ -1,0 +1,77 @@
+{
+    "ROOT": {
+      "type": "div",
+      "isCanvas": true,
+      "props": {
+        "style": {
+          "background": "#ffffff"
+        }
+      },
+      "displayName": "div",
+      "custom": {},
+      "hidden": false,
+      "nodes": ["LgKdNRYUkI", "mQ7rQBgmsN", "aat-GndPNI"],
+      "linkedNodes": {}
+    },
+    "LgKdNRYUkI": {
+      "type": "h1",
+      "isCanvas": false,
+      "props": {
+        "style": {
+          "color": "black"
+        },
+        "children": "Hi"
+      },
+      "displayName": "h1",
+      "custom": {},
+      "parent": "ROOT",
+      "hidden": false,
+      "nodes": [],
+      "linkedNodes": {}
+    },
+    "mQ7rQBgmsN": {
+      "type": "div",
+      "isCanvas": false,
+      "props": {
+        "style": {
+          "display": "flex"
+        }
+      },
+      "displayName": "div",
+      "custom": {},
+      "parent": "ROOT",
+      "hidden": false,
+      "nodes": ["svYXfBFq5l"],
+      "linkedNodes": {}
+    },
+    "svYXfBFq5l": {
+      "type": "button",
+      "isCanvas": false,
+      "props": {
+        "children": "i am button"
+      },
+      "displayName": "button",
+      "custom": {},
+      "parent": "mQ7rQBgmsN",
+      "hidden": false,
+      "nodes": [],
+      "linkedNodes": {}
+    },
+    "aat-GndPNI": {
+      "type": "h2",
+      "isCanvas": false,
+      "props": {
+        "style": {
+          "color": "black"
+        },
+        "children": "i am headline"
+      },
+      "displayName": "h2",
+      "custom": {},
+      "parent": "ROOT",
+      "hidden": false,
+      "nodes": [],
+      "linkedNodes": {}
+    }
+  }
+  
